@@ -2,8 +2,10 @@
 <html>
 <body>
 
+<h1>My OpenShift Welcome Page</h1>
+
 <?php
-echo "Welcome to OpenShift Version 3 !!!";
+echo "Hello World!";
 ?> 
 
 </body>
