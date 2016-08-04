@@ -1,3 +1,10 @@
-Welcome to OpenShift Version 3 !!!
+<!DOCTYPE html>
+<html>
+<body>
 
-This is my site.
+<?php
+echo "Welcome to OpenShift Version 3 !!!";
+?> 
+
+</body>
+</html>
