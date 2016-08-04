@@ -1,3 +1,3 @@
-Welcome to OpenShift Version3.0.1 !!
+Welcome to OpenShift Version 3 !!!
 
-Try /dbtest.php extension :-)
+This is my site.
